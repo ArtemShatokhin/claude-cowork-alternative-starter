@@ -1,0 +1,29 @@
+# kortix.yaml — the project config. Kortix is the open-source AI Management
+# System: edit this file, then `kortix ship`. Docs: https://kortix.com/docs
+
+machine:
+  image: default
+
+agents:
+  migration-lead:
+    role: Operations
+    description: Plans and tracks a team's move off Claude Cowork onto a self-hosted Kortix project.
+    model: auto
+    skills: [cowork-migration]
+    permissions:
+      github: allow
+      slack: ask
+
+skills:
+  cowork-migration:
+    path: skills/cowork-migration.md
+
+connectors:
+  github:
+    scope: repo
+
+triggers:
+  - name: migration-status
+    schedule: "0 9 * * 1"
+    agent: migration-lead
+    prompt: "Summarize the migration's open items and open a change request with next week's plan."
