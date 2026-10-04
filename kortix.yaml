@@ -1,7 +1,7 @@
 # kortix.yaml — the project config. Kortix is the open-source AI Management
 # System: edit this file, then `kortix ship`. Docs: https://kortix.com/docs
 
-machine:
+sandbox:
   image: default
 
 agents:
