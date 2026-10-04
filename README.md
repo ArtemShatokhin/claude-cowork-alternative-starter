@@ -43,3 +43,15 @@ The code lives at [Kortix on GitHub](https://github.com/kortix-ai/suna). Step-by
 If you are still weighing the options, [the Claude Cowork alternative guide](https://claudecoworkalternative.com) compares the field.
 
 To run it yourself, [Get started](https://kortix.com).
+
+## Further reading on claudecoworkalternative.com
+
+Everything the starter repository sets up in code has a longer answer on the companion site, from the migration plan to the licence question.
+
+- Plan the switch with the [migration off Claude Cowork](https://claudecoworkalternative.com/migration.html).
+- Go from first download to a running agent in the [install and quickstart](https://claudecoworkalternative.com/install.html).
+- Compare the self-hostable options in the [comparison of open-source alternatives](https://claudecoworkalternative.com/comparison.html).
+- Put Claude Cowork next to Kortix in [Claude Cowork vs Kortix](https://claudecoworkalternative.com/claude-cowork-vs-kortix.html).
+- Run the stack on your own hardware with the [self-hosting guide](https://claudecoworkalternative.com/self-hosting.html).
+- Settle whether Claude Cowork ships its source in [is Claude Cowork open source](https://claudecoworkalternative.com/is-claude-cowork-open-source.html).
+- Read the [FAQ](https://claudecoworkalternative.com/faq.html) for what teams raise before leaving Claude Cowork.
