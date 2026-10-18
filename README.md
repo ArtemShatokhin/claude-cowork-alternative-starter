@@ -2,6 +2,8 @@
 
 Kortix is the open-source AI Operating System, and this repository is a working, self-hostable Claude Cowork alternative for teams that want their agents, skills, memory and connectors as files they own, running on infrastructure they control, rather than settings inside a vendor product.
 
+If the term is new to you, [what Claude Cowork is](https://claudecoworkalternative.com/what-is-claude-cowork) is the two-minute version, and [what Reddit's alternative threads ask for](https://claudecoworkalternative.com/claude-cowork-alternatives-reddit) shows where real users land.
+
 Claude Cowork is Anthropic's hosted agent product for non-coding knowledge work. You point it at folders and connected tools, and it runs multi-step tasks and returns finished output for review. It is bundled into Claude Pro, Max, Team and Enterprise plans and runs as a vendor-hosted app on web, desktop and mobile ([Anthropic's Claude Cowork page](https://claude.com/product/cowork), checked October 2026).
 
 ## How Kortix and Claude Cowork differ
