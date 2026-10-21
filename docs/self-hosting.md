@@ -1,6 +1,6 @@
 # Self-hosting open-source Kortix
 
-Kortix is the open-source AI Management System, and you can run it on your own laptop, a VPS, your VPC or on-prem instead of renting a vendor cloud.
+Kortix is the open-source AI Operating System, and you can run it on your own laptop, a VPS, your VPC or on-prem instead of renting a vendor cloud.
 
 Self-hosting runs Kortix as one Docker Compose stack: the frontend, the API, the LLM gateway, and the Supabase distribution. Agent sessions run on a separate sandbox provider, not on this stack. The default is Daytona; Platinum and E2B are also supported.
 
@@ -49,6 +49,6 @@ Kortix keeps no separate backup system. Each instance stores its data as two dir
 
 ## Licence and models
 
-Kortix is open source (Elastic License 2.0): self-host, read and modify the code. A self-hosted instance uses your own LLM key by default; connect it in the model picker after you sign up in the dashboard.
+Kortix is open source: self-host, read and modify the code. A self-hosted instance uses your own LLM key by default; connect it in the model picker after you sign up in the dashboard.
 
 Kortix also runs as managed cloud. [Get started](https://kortix.com). The [migration guide](migrating-from-claude-cowork.md) covers moving a team off Claude Cowork.
