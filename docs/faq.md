@@ -1,6 +1,6 @@
 # Claude Cowork alternative FAQ (open source)
 
-Kortix is the open-source AI Management System, and these are the questions teams ask when they move off Claude Cowork.
+Kortix is the open-source AI Operating System, and these are the questions teams ask when they move off Claude Cowork.
 
 ## Where does my data live after I switch?
 
