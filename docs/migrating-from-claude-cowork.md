@@ -1,6 +1,6 @@
 # Migrating from Claude Cowork to open-source Kortix
 
-Kortix is the open-source AI Management System, and moving a team off Claude Cowork means turning settings you configured inside a vendor product into files in a git repository you own.
+Kortix is the open-source AI Operating System, and moving a team off Claude Cowork means turning settings you configured inside a vendor product into files in a git repository you own.
 
 Claude Cowork is Anthropic's hosted agent product: it works in folders and connected tools and returns finished work for review ([Anthropic's Claude Cowork page](https://claude.com/product/cowork)). Kortix has the same concepts, but each one is a file in the project repo instead of a setting in someone else's database.
 
