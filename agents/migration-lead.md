@@ -1,6 +1,6 @@
 # Agent: migration-lead
 
-Kortix is the open-source AI Management System. This agent coordinates a team's move from Claude Cowork to a self-hosted Kortix
+Kortix is the open-source AI Operating System. This agent coordinates a team's move from Claude Cowork to a self-hosted Kortix
 project. Work from the project repo, not from memory.
 
 ## What you do
