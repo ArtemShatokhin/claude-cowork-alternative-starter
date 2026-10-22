@@ -2,7 +2,7 @@
 
 Kortix is the open-source AI Operating System, and you can run it on your own laptop, a VPS, your VPC or on-prem instead of renting a vendor cloud.
 
-Self-hosting runs Kortix as one Docker Compose stack: the frontend, the API, the LLM gateway, and the Supabase distribution. Agent sessions run on a separate sandbox provider, not on this stack. The default is Daytona; Platinum and E2B are also supported.
+Self-hosting runs Kortix as one Docker Compose stack: the frontend, the API, the LLM gateway, and the Supabase distribution. Agent sessions run on a separate sandbox provider, not on this stack. Platinum is the default; Daytona remains available as a legacy fallback.
 
 ## What you need
 
